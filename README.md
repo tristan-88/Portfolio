@@ -76,7 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/tristan-88/Portfolio
+git clone https://github.com/tristan-88/Portfolio.git
 cd portfolio
 ```
 
@@ -652,6 +652,6 @@ style={{
 
 Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
-
+## <a name="more">🚀 More</a>
 
 #
